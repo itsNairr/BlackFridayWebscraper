@@ -148,4 +148,4 @@ if __name__ == "__main__":
 
     # --- Send one summary email ---
     print("\n--- Sending Email ---")    
-    # send_summary_email(laptop_price_results, tv_price_results)
+    send_email(laptop_price_results, tv_price_results)
