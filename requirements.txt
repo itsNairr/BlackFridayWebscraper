@@ -1,0 +1,6 @@
+selenium
+undetected-chromedriver
+webdriver-manager
+python-dotenv
+setuptools 
+requests
